@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: cf226682c1caa324aad241c81b3e488a
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - EnnemyBody: {instanceID: 0}
+  - GoldLootPrefab: {fileID: 7010218873622392135, guid: f06a8caddfd80624598a28677ab3b1bd, type: 3}
+  - ManaLootPrefab: {fileID: 8619794162747232949, guid: e94d0855e9ae61f44858a51c98bcca13, type: 3}
+  - dropLootTarget: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
